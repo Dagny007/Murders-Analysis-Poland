@@ -1,5 +1,4 @@
-# Murders Analysis | Poland_1999-2020
-# Data Analysis in Python.
+# Murders Analysis | Poland_1999-2020 <br>Data Analysis in Python.
 <a class="anchor" id="intro"></a>
 ### The scope of analysis and main conclusions
 <br>
@@ -27,7 +26,7 @@
 ------------
 <b>Conclusions:</b>
 
-<p style="text-align:justify;"><b>Crime level of the incidents classified as murders decreases with each year.</b> When looking at the provinces with the geatest volume of murders, four of them focus attention. These are: Masovia, Silesian, Lower Silesian, Lodzkie. The first three of them represent the majority of overall share between 1999-2020, where the exact percentage rates are: <b>Masovia (15,8%)</b>, <b>Silesian (12,9%)</b>, <b>Lower Silesian (9,9%)</b>. On the other hand, the lowest records are characteristic for <b>Opole (2%)</b>, <b>Subcarpathian (3%)</b>, <b>Świętokrzyskie (3%)</b>, <b>Podlaskie (3%)</b>. Interesting fact: <b>Masovia notes the highest number of murders every year</b>. Unlike Opolskie, which stands for the lowest results consistently.</p><i><u>Questions [1] and [2]</u></i> 
+<p style="text-align:justify;"><b>Crime level of the incidents classified as murders decreases with each year.</b> When looking at the provinces with the geatest volume of murders, four of them focus attention. These are: Masovia, Silesian, Lower Silesian, Lodzkie. The first three of them represent the majority of overall share between 1999-2020, where the exact percentage rates are: <b>Masovia (15,8%)</b>, <b>Silesian (12,9%)</b>, <b>Lower Silesian (9,9%)</b>. On the other hand, the lowest records are characteristic for <b>Opole (2%)</b>, <b>Subcarpathian (3%)</b>, <b>Świętokrzyskie (3%)</b>, <b>Podlaskie (3%)</b>. Interesting fact: <b>Masovia notes the highest number of murders every year</b>. Unlike Opolskie, which stands for the lowest results consistently.<br><i><u>Questions [1] and [2]</u></i></p>
 
 <p style="text-align:justify;"><b>Described results are not equal to high or low level of crime generally.</b> Each case needs to be considered individually, due to local characteristics related to population and area. As the main indicator, the crime rate metric is analzyed as even when the number of crimes itself is lower, the crime rate may be higher once comparing different locations.</p> 
 
