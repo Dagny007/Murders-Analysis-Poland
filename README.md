@@ -21,7 +21,7 @@
 - [3] What is the crime detection effectiveness? Does it improve over time?
 - [4] When the greatest and the lowest numbers of murder crime incidents are noted?
 - [5] Is there any remarkable difference between 2019 and 2020? Which of the provinces stand out and how?
-- [6] Are there relationships between murders and the characteristics of particular province in 2020? What correlation 
+- [6] Are there relationships between murders and the characteristics of particular province in 2020? What correlations are observed?
 
 ------------
 <b>Conclusions:</b>
